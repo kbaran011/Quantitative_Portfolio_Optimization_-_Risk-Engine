@@ -13,7 +13,7 @@ It automates the end-to-end workflow of financial engineering: from fetching raw
 
 ---
 
-## 📐 Mathematical Deep Dive
+## Mathematical Deep Dive
 
 This engine implements rigorous mathematical concepts to ensure numerical stability and statistical accuracy.
 
@@ -48,7 +48,7 @@ The engine calculates risk using two distinct methodologies to capture "Tail Ris
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. Modern Portfolio Theory (MPT) Implementation
 - **Efficient Frontier:** Simulates 10,000+ portfolio combinations to visualize the risk-return trade-off.
@@ -65,7 +65,7 @@ The engine calculates risk using two distinct methodologies to capture "Tail Ris
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 markowitz_optimization/
